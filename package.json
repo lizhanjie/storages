@@ -1,0 +1,22 @@
+{
+    "name": "storages",
+    "version": "1.0.0",
+    "description": "storages",
+    "main": "js/index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lizhanjie/storages.git"
+    },
+    "author": {
+        "name": "lizhanjie",
+        "email": "luoxia1982@126.com"
+    },
+    "contributors": [{
+        "name": "lizhanjie",
+        "email": "luoxia1982@126.com"
+    }],
+    "license": "ISC",
+    "devDependencies": {},
+    "dependencies": {}
+}
